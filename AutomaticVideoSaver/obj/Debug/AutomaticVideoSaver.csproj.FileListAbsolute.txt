@@ -1,0 +1,9 @@
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\bin\Debug\AutomaticVideoSaver.exe
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\bin\Debug\AutomaticVideoSaver.pdb
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\obj\Debug\AutomaticVideoSaver.csproj.AssemblyReference.cache
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\obj\Debug\AutomaticVideoSaver.Form1.resources
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\obj\Debug\AutomaticVideoSaver.Properties.Resources.resources
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\obj\Debug\AutomaticVideoSaver.csproj.GenerateResource.cache
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\obj\Debug\AutomaticVideoSaver.csproj.CoreCompileInputs.cache
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\obj\Debug\AutomaticVideoSaver.exe
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\obj\Debug\AutomaticVideoSaver.pdb

@@ -1,0 +1,11 @@
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\bin\Release\AutomaticVideoSaver.exe
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\bin\Release\AutomaticVideoSaver.pdb
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\obj\Release\AutomaticVideoSaver.Form1.resources
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\obj\Release\AutomaticVideoSaver.Properties.Resources.resources
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\obj\Release\AutomaticVideoSaver.csproj.GenerateResource.cache
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\obj\Release\AutomaticVideoSaver.csproj.CoreCompileInputs.cache
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\obj\Release\AutomaticVideoSaver.exe
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\obj\Release\AutomaticVideoSaver.pdb
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\bin\Release\AutomaticVideoSaver.exe.config
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\obj\Release\AutomaticVideoSaver.csproj.AssemblyReference.cache
+G:\ProgramProjects\AutomaticVideoSaver\AutomaticVideoSaver\obj\Release\AutomaticVideoSaver.csproj.SuggestedBindingRedirects.cache
